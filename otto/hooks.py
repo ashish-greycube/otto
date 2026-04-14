@@ -32,5 +32,5 @@ website_route_rules = [
 	{"from_route": "/otto/<path:app_path>", "to_route": "otto"},
 ]
 
-fixtures = ["Otto LLM"]
+# fixtures = ["Otto LLM"]
 email_css = ["/assets/otto/css/email.css"]
